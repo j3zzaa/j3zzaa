@@ -16,7 +16,7 @@ Building the mathematical and algorithmic prerequisites for autonomous control s
 ## Current Education
 * **`Programme`**: I am an International Baccalaureate Diploma Programme 1st year student. 
 * **`Relevant Subjects`**: Mathematics AA HL & Physics HL with a predicted grade 7
-* **`Extended Essay`**: Topic: The Theoretical Mathematical Stability of an artificial pancreas.
+* **`Extended Essay Topic`**: The Theoretical Mathematical Stability of an artificial pancreas.
 
 ## Future
 * **`University`**: Planning to study Automation and Robotics (BSc) @ AGH Kraków 
