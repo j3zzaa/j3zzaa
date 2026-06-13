@@ -6,7 +6,7 @@ Currently building the mathematical and algorithmic prerequisites for continuous
 
 ### Active Study Streams
 
-*   **Mathematics:** MIT 18.01 (Single-Variable Calculus - Day 1), Structural Logic (*Book of Proof*).
+*   **Mathematics:** MIT 18.01 (Single-Variable Calculus).
 *   **Computation:** Learning Python 3.11 core syntax for numerical and computational applications.
 *   **Engineering Infrastructure:** Setting up Git CLI command-line workflows and typesetting mathematical derivations in LaTeX/Overleaf.
 
